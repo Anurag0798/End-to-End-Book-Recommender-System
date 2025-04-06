@@ -3,4 +3,5 @@ pandas
 numpy
 PyYAML
 streamlit
+six
 -e .
